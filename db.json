@@ -21,18 +21,18 @@
     {
       "id": 1,
       "time": "",
-      "last_processed_record": "",
       "status":"",
-      "processing":""
+      "processing":"",
+      "last_processed_patient": ""
     }
   ],
   "aruna_mam": [
     {
       "id": 1,
       "time": "",
-      "last_processed_record": "",
       "status":"",
-      "processing":""
+      "processing":"",
+      "last_processed_patient": ""
     }
   ]
 }
