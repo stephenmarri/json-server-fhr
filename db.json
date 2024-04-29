@@ -52,14 +52,5 @@
       "processing":"",
       "last_processed_patient": ""
     }
-  ],
-  "additional_3": [
-    {
-      "id": 1,
-      "time": "",
-      "status":"",
-      "processing":"",
-      "last_processed_patient": ""
-    }
   ]
 }
