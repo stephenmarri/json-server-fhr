@@ -34,5 +34,23 @@
       "processing":"",
       "last_processed_patient": ""
     }
+  ],
+  "additional_1": [
+    {
+      "id": 1,
+      "time": "",
+      "status":"",
+      "processing":"",
+      "last_processed_patient": ""
+    }
+  ],
+  "additional_2": [
+    {
+      "id": 1,
+      "time": "",
+      "status":"",
+      "processing":"",
+      "last_processed_patient": ""
+    }
   ]
 }
