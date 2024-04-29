@@ -3,18 +3,18 @@
     {
       "id": 1,
       "time": "",
-      "last_processed_record": "",
       "status":"",
-      "processing":""
+      "processing":"",
+      "last_processed_patient": ""
     }
   ],
   "marcie": [
     {
       "id": 1,
       "time": "",
-      "last_processed_record": "",
       "status":"",
-      "processing":""
+      "processing":"",
+      "last_processed_patient": ""
     }
   ],
   "angelle": [
