@@ -79,5 +79,32 @@
       "processing":"",
       "last_processed_patient": ""
     }
+  ],
+  "additional_6": [
+    {
+      "id": 1,
+      "time": "",
+      "status":"",
+      "processing":"",
+      "last_processed_patient": ""
+    }
+  ],
+  "additional_7": [
+    {
+      "id": 1,
+      "time": "",
+      "status":"",
+      "processing":"",
+      "last_processed_patient": ""
+    }
+  ],
+  "additional_8": [
+    {
+      "id": 1,
+      "time": "",
+      "status":"",
+      "processing":"",
+      "last_processed_patient": ""
+    }
   ]
 }
