@@ -61,5 +61,23 @@
       "processing":"",
       "last_processed_patient": ""
     }
+  ],
+  "additional_4": [
+    {
+      "id": 1,
+      "time": "",
+      "status":"",
+      "processing":"",
+      "last_processed_patient": ""
+    }
+  ],
+  "additional_5": [
+    {
+      "id": 1,
+      "time": "",
+      "status":"",
+      "processing":"",
+      "last_processed_patient": ""
+    }
   ]
 }
